@@ -71,8 +71,4 @@ A passionate **Software Engineer** specializing in full-stack web and desktop ap
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/akmalkhn_)
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MAULIDANIYAZ-AKMAL-KHAN&color=blue&style=flat-square)](https://visitcount.itsvg.in)
-
 </div>
