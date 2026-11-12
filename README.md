@@ -73,6 +73,6 @@ A passionate **Software Engineer** specializing in full-stack web and desktop ap
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MAULIDANIYAZ-AKMAL-KHAN&icon=2&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=MAULIDANIYAZ-AKMAL-KHAN&color=blue&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
